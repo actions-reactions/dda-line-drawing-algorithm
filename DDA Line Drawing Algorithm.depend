@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519570537 source:u:\smjpx\documents\codeblocks\dda line drawing algorithm\main.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+
